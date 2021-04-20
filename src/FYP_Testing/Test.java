@@ -1,5 +1,5 @@
 package FYP_Testing;
 
-public class testClass {
+public class Test {
 
 }
